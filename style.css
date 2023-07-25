@@ -254,7 +254,7 @@ button:hover {
     position: relative;
     flex-direction: column;
     gap: 1rem;
-    padding-top: 50px;
+    
     min-height: 100vh;
 }
 
@@ -439,6 +439,9 @@ button:hover {
     }
 
     /* service  section will start*/
+    .ser{
+        gap: 4rem;
+    }
     .ser .cards .two {
 
         /* display: block; */
